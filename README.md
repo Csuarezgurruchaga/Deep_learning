@@ -1,2 +1,2 @@
 # Deep_learning
-A repository where i implement some deep learning projects 
+Repository where i implement some deep learning projects. 
